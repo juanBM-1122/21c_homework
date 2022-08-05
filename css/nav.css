@@ -1,0 +1,22 @@
+nav ul{
+    display: flex;
+    background-color: blue;
+    list-style: none;
+    padding: 10px;
+}
+
+nav ul li{
+    background-color: red;
+    margin-left: 50px;
+}
+
+nav ul li a{
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    background-color: red;
+    color: white;
+}
