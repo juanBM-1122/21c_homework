@@ -130,3 +130,14 @@ aside section{
     width: 100%;
     height: 75%;
 }
+
+@media  screen and (max-width:800px) {
+
+    aside header img{
+        width: 100%;
+    }
+    div.contenedor header img{
+        width: 15%;
+    }
+    
+}
